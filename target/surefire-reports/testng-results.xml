@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="66924" started-at="2018-01-24T04:11:55Z" finished-at="2018-01-24T04:13:02Z">
+  <suite name="Suite" duration-ms="60715" started-at="2018-01-25T04:41:19Z" finished-at="2018-01-25T04:42:19Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="66924" started-at="2018-01-24T04:11:55Z" finished-at="2018-01-24T04:13:02Z">
+    <test name="Test" duration-ms="60715" started-at="2018-01-25T04:41:19Z" finished-at="2018-01-25T04:42:19Z">
       <class name="excelScript.excelScriptTestLink">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:excelScript.excelScriptTestLink@5f2050f6]" name="openBrowser" is-config="true" duration-ms="4762" started-at="2018-01-24T09:41:55Z" finished-at="2018-01-24T09:42:00Z">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:excelScript.excelScriptTestLink@42d3bd8b]" name="openBrowser" is-config="true" duration-ms="6584" started-at="2018-01-25T10:11:19Z" finished-at="2018-01-25T10:11:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="PASS" signature="uploadExceltoTestLink()[pri:0, instance:excelScript.excelScriptTestLink@5f2050f6]" name="uploadExceltoTestLink" duration-ms="61211" started-at="2018-01-24T09:42:00Z" finished-at="2018-01-24T09:43:01Z">
+        <test-method status="PASS" signature="uploadExceltoTestLink()[pri:0, instance:excelScript.excelScriptTestLink@42d3bd8b]" name="uploadExceltoTestLink" duration-ms="53085" started-at="2018-01-25T10:11:25Z" finished-at="2018-01-25T10:12:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- uploadExceltoTestLink -->
-        <test-method status="PASS" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:excelScript.excelScriptTestLink@5f2050f6]" name="closeBrowser" is-config="true" duration-ms="937" started-at="2018-01-24T09:43:01Z" finished-at="2018-01-24T09:43:02Z">
+        <test-method status="PASS" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:excelScript.excelScriptTestLink@42d3bd8b]" name="closeBrowser" is-config="true" duration-ms="1045" started-at="2018-01-25T10:12:18Z" finished-at="2018-01-25T10:12:19Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=uploadExceltoTestLink status=SUCCESS method=excelScriptTestLink.uploadExceltoTestLink()[pri:0, instance:excelScript.excelScriptTestLink@5f2050f6] output={null}]]]>
+                <![CDATA[[TestResult name=uploadExceltoTestLink status=SUCCESS method=excelScriptTestLink.uploadExceltoTestLink()[pri:0, instance:excelScript.excelScriptTestLink@42d3bd8b] output={null}]]]>
               </value>
             </param>
           </params>

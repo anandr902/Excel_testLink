@@ -311,7 +311,7 @@ public class testLinkPage {
 		try {
 			String value = Genric_Methods.Get_cell_value("TestCases", l, 18);
 			testExecutionTime.sendKeys(value);
-			Thread.sleep(10000);
+			
 
 		} catch (Exception e3) {
 
